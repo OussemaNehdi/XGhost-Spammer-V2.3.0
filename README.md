@@ -4,7 +4,7 @@ Are you looking to pleasantly surprise a crush with daily "I like you" messages?
 Whether you're planning an advertising campaign and need to schedule emails to a list of recipients, our app caters to all these needs and more. It's designed for everyone, offering a versatile platform for various messaging purposes.
 
  
-![finalimg](https://github.com/OussemaNehdi/XGhost-Spammer-V2.3.0/assets/157837589/0bd37725-31ce-4383-9f36-daeb32405bdc)
+![finalimg](https://github.com/OussemaNehdi/XGhost-Spammer-V2.3.0/blob/main/pictures/readmeImage.PNG)
 
 Welcome to XGhost Spammer V 2.3.0, an advanced Parallel GUI spamming program designed for optimal performance and security. Developed in 2020, this software prioritizes simplicity and ease of use while offering cutting-edge features.
 
