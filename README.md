@@ -8,6 +8,7 @@ Welcome to XGhost Spammer V 2.3.0, an advanced Parallel GUI spamming program des
 
 ## Key Features
 
+- **EML HTML Formatted Emails:**send visually engaging EML emails in HTML format, enhancing the impact and appeal of your messages for a more captivating recipient experience.
 - **Direct Inbox Delivery:** XGhost Spammer ensures that your emails are directly delivered to the recipient's main inbox, bypassing spam filters and enhancing the visibility of your messages.
 
 - **SSL-Encrypted Sender Data:** Your sender data is securely transmitted using Secure Sockets Layer (SSL) encryption, establishing a protected link between the server and client. This ensures the confidentiality and integrity of your transmitted information.
